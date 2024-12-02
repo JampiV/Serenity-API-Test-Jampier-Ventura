@@ -1,0 +1,1 @@
+Para la tarea de automatización de la API, mis métodos incluyen un GET by Id para aerolíneas y un Patch para actualizar el nombre de un pasajero, el cual decidí incluir dentro del mismo escenario que lo trabajado con las aerolíneas, para hacer una sola ejecución.
